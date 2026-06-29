@@ -1,43 +1,19 @@
-````md
 <div align="center">
+<h1>𝐈𝐦𝐦𝐚𝐧.</h1><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=8AADF4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Imman;C+Student;Frontend+Learner;Cybersecurity+Student;Linux+Enthusiast" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN3MGdwZGxxd3gxaXJjdmh1NzFjNXYzajQ4MW40amg2eHkwNGt5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lWAMC8CzAXeIAo/giphy.gif">
 
 <br>
 
-> 💻 Learning C, Frontend & Cybersecurity
+<h3>𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝒐𝒏 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒇𝒐𝒖𝒏𝒅𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝒍𝒐𝒘-𝒍𝒆𝒗𝒆𝒍 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒂𝒏𝒅 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚.</h3><br>
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br>
 
----
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br><br>
 
-```c
-while (learning) {
-    code();
-    build();
-    repeat();
-}
-```
+<h4>Languages & Tools<h4>
 
----
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=catppuccin_mocha&no-frame=true&margin-w=15)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=89b4fa"/>
-
-</div>
-````
+<img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
